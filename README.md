@@ -6,7 +6,6 @@
 
 ```
 tar -xvf candidatos.tar.gz
-
 ```
 3 - Compile e execute o arquivo "Main.java":
 
