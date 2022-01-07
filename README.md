@@ -13,7 +13,7 @@ tar -xvf candidatos.tar.gz
 javac Main.java && java Main
 ```
 
-Feito isso, é necessário informar a URL do banco de dados, o usuário, a senha e o diretório em que se encontra os arquivos dos candidatos.
+4 - Feito isso, é necessário informar a URL do banco de dados, o usuário, a senha e o diretório em que se encontra os arquivos dos candidatos.
 Segue o exemplo abaixo:
 
 ```
